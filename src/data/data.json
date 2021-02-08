@@ -1,0 +1,26 @@
+{
+    "profile":[
+        {
+            "name":"vijayasree",
+            "role":"student",
+            "email":"chvijayasree@gmail.com",
+            "education":[
+                {
+                    "sname":"st. marys public",
+                    "per":"9.8",
+                    "year":"2017"
+                }
+            ]
+        },
+    {
+        "name":"dhana",
+        "role":"developer",
+        "email":"dhanalakshmi@gmail.com",
+        "education":[
+            {
+                "sname":"Amg public",
+                "per":"9.5",
+                "year":"2017"
+            }]
+     }
+    ]}   
